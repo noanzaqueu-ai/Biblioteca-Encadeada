@@ -22,7 +22,7 @@ A book management system for a publishing company, implemented using a **singly 
 
 ## 📖 About the Project
 
-This project was developed as part of an academic assignment on **data structures**. The goal is to simulate a publishing company's catalog system, where each book is stored in a node of a linked list sorted by **publication year**.
+This project was developed as part of academic assignment on **data structures**. The goal is to simulate a publishing company's catalog system, where each book is stored in a node of a linked list sorted by **publication year**.
 
 Sorting is performed automatically at insertion time, ensuring the list always remains in ascending order, regardless of the order in which books are registered.
 
